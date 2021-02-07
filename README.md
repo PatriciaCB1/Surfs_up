@@ -6,7 +6,7 @@ A potential investor in our new venture was looking for additional information a
 
 
   ## Resources
-  - Data Sources:  schools_complete.csv, students_complete.csv, clean_students.csv
+  - Data Sources:  "sqlite:///hawaii.sqlite"
   - Software:  Anaconda 4.9.2, Jupyter Notebook 6.0.3 , Python 3.7.6, SQLalchemy
   - Using:  Pandas, NumPy, SQLalchemy extensions and functions
 
@@ -23,10 +23,10 @@ A potential investor in our new venture was looking for additional information a
 
 - ** Note there are fewer temperature readings for December than there are for June (1700 / 1517 for June/ December respectively)
  
-![June_Summary_Stats](https://github.com/PatriciaCB1/School_District_Analysis/blob/main/Original_District_Summary1.png)
+![June_Summary_Stats](https://github.com/PatriciaCB1/Surfs_up/blob/main/June_Descriptive_Stats.png)
 
 
-![December_Summary_Stats](https://github.com/PatriciaCB1/School_District_Analysis/blob/main/Revised_District%20Summary.png)
+![December_Summary_Stats](https://github.com/PatriciaCB1/Surfs_up/blob/main/Dec_Descriptive_Stats.png)
 
 
 ##Summary:
