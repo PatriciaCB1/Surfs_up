@@ -31,8 +31,9 @@ A potential investor in our new venture was looking for additional information a
 
 ##Summary:
 
-##High-level Summary 
-###Based on the temperature analysis alone for June and December, it appears that while it is somewhat cooler in December, the location is viable for surfing and ice cream at these times of year.  Both months have average temperatures in the 70s 
+## High-level Summary 
+
+Based on the temperature analysis alone for June and December, it appears that while it is somewhat cooler in December, the location is viable for surfing and ice cream at these times of year.  Both months have average temperatures in the 70s 
 
 In order to fully assess suitability of the location, I would recommend we run the following to enhance our climate analysis:
 - run analysis for all months (not just June/ December) as other months may show more variability
